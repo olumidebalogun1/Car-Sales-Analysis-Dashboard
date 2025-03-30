@@ -61,7 +61,7 @@ By integrating **cutting-edge analytics, automated workflows, and intelligent st
 
 
 ### **Dashboard File**
-**🔗 Access the final dashboard here**:[Dashboard](https://github.com/olumidebalogun1/Sales-Analysis-Dashboard/blob/main/4.%20Dashboards/3.%20Sales%20Analysis%20Dashboard.gif)
+**🔗 Access the final dashboard here**:[Dashboard](https://public.tableau.com/app/profile/olumide.balogun1/viz/SalesAnalysisDashboard_17283835601310/SalesDashboard)
 
 
 ### **Tableau Skills Used**
